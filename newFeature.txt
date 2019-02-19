@@ -1,1 +1,2 @@
-zmian newFeauture na master
+To jest zmiana na newFeature 
+
